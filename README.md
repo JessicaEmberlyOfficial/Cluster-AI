@@ -5,7 +5,8 @@ Cluster AI is an energy efficient zero-energy network design for ESP32 boards.
 ```
 Say for example, you want to use an AI model but without using a lot of energy, well you can use Cluster AI for a zero-energy network approach.
 ```
-<img width="1000" height="2000" alt="89269" src="https://github.com/user-attachments/assets/f63d433f-abed-42db-82ca-5041e1424e7d" />
+<img width="1000" height="2000" alt="89270" src="https://github.com/user-attachments/assets/54acfe3b-2705-4285-ae22-9cda60e43059" />
+
 
 
 
